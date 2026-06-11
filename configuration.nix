@@ -181,6 +181,9 @@
     kitty
     mangohud
     protonup-ng
+    # TODO: Add zen-browser:
+    # nur.repos.<something>.<something>
+    # Use `tv` to find your package!
   ];
 
   fonts.packages = with pkgs; [
